@@ -70,3 +70,6 @@
 {"level":"info","message":"Listening on port 3900...","timestamp":"2019-07-20T05:03:53.476Z"}
 {"level":"info","message":"Connected to mongodb://localhost/lingkaran...","timestamp":"2019-07-20T05:03:53.513Z"}
 {"level":"info","message":"Listening on port 3900...","timestamp":"2019-07-20T05:51:25.365Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2019-07-20T06:45:11.247Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2019-07-20T06:46:41.916Z"}
+{"level":"info","message":"Connected to mongodb://localhost/lingkartangan...","timestamp":"2019-07-20T06:46:41.949Z"}
