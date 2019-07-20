@@ -65,3 +65,5 @@
 {"level":"info","message":"Connected to mongodb://localhost/lingkaran...","timestamp":"2019-07-17T11:19:25.806Z"}
 {"level":"info","message":"Listening on port 3900...","timestamp":"2019-07-20T03:14:45.212Z"}
 {"level":"info","message":"Connected to mongodb://localhost/lingkaran...","timestamp":"2019-07-20T03:14:45.237Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2019-07-20T04:02:15.942Z"}
+{"level":"info","message":"Connected to mongodb://localhost/lingkaran...","timestamp":"2019-07-20T04:02:15.980Z"}
