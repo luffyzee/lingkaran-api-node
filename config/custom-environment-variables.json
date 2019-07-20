@@ -1,3 +1,4 @@
 {
-  "jwtPrivateKey": "lingkaran_jwtPrivateKey"
+  "jwtPrivateKey": "lingkaran_jwtPrivateKey",
+  "db": "lingkaran_db"
 }
