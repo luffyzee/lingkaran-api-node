@@ -73,3 +73,9 @@
 {"level":"info","message":"Listening on port 3900...","timestamp":"2019-07-20T06:45:11.247Z"}
 {"level":"info","message":"Listening on port 3900...","timestamp":"2019-07-20T06:46:41.916Z"}
 {"level":"info","message":"Connected to mongodb://localhost/lingkartangan...","timestamp":"2019-07-20T06:46:41.949Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2019-07-20T07:03:06.309Z"}
+{"level":"info","message":"Connected to mongodb+srv://lingkartangan:magnum2706@lingkartangan-ppvsn.mongodb.net/test?retryWrites=true&w=majority...","timestamp":"2019-07-20T07:03:08.098Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2019-07-20T07:08:20.714Z"}
+{"level":"info","message":"Connected to mongodb+srv://lingkartangan:magnum2706@lingkartangan-ppvsn.mongodb.net/test?retryWrites=true&w=majority...","timestamp":"2019-07-20T07:08:22.486Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2019-07-20T07:09:53.348Z"}
+{"level":"info","message":"Connected to mongodb+srv://lingkartangan:magnum2706@lingkartangan-ppvsn.mongodb.net/test?retryWrites=true&w=majority...","timestamp":"2019-07-20T07:09:59.267Z"}
