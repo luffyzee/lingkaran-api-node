@@ -1,6 +1,6 @@
 {
   "jwtPrivateKey": "unsecureKey",
-  "db": "mongodb+srv://lingkartangan:magnum2706@lingkartangan-ppvsn.mongodb.net/test?retryWrites=true&w=majority",
+  "db": "mongodb://localhost/lingkaran",
   "port": "3900",
   "requiresAuth": true
 }
