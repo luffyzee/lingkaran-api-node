@@ -94,3 +94,7 @@
 {"level":"info","message":"Listening on port 5000...","timestamp":"2019-07-22T09:00:39.001Z"}
 >>>>>>> 603bea372e1da70358c03512774f24423a28c23d
 {"level":"info","message":"Listening on port 27017...","timestamp":"2019-07-22T09:24:34.287Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-07-22T09:36:28.097Z"}
+{"level":"info","message":"Connected to mongodb://localhost/lingkaran...","timestamp":"2019-07-22T09:36:28.133Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-07-22T12:26:50.013Z"}
+{"level":"info","message":"Connected to mongodb://localhost/lingkaran...","timestamp":"2019-07-22T12:26:50.043Z"}
