@@ -1,6 +1,6 @@
 {
   "jwtPrivateKey": "unsecureKey",
   "db": "mongodb://localhost/lingkaran",
-  "port": "5000",
+  "port": "27017",
   "requiresAuth": true
 }
