@@ -1,4 +1,3 @@
 {
-  "jwtPrivateKey": "lingkaran_jwtPrivateKey",
-  "db": "lingkartangan_db"
+  "jwtPrivateKey": "lingkaran_jwtPrivateKey"
 }
