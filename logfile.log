@@ -128,6 +128,7 @@
 {"level":"info","message":"Listening on port 3000...","timestamp":"2019-07-22T12:47:59.813Z"}
 {"level":"info","message":"Connected to mongodb://localhost/lingkaran...","timestamp":"2019-07-22T12:47:59.846Z"}
 >>>>>>> 2f0924bac8c102102f6d84f412181405cf48304b
+<<<<<<< HEAD
 {"level":"info","message":"Listening on port 3000...","timestamp":"2019-07-22T13:13:18.544Z"}
 {"level":"info","message":"Connected to mongodb://localhost/lingkaran...","timestamp":"2019-07-22T13:13:18.579Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2019-07-24T07:48:48.133Z"}
@@ -136,3 +137,13 @@
 {"level":"info","message":"Connected to mongodb://localhost/lingkaran...","timestamp":"2019-07-24T07:57:52.986Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2019-07-24T08:03:31.016Z"}
 {"level":"info","message":"Connected to mongodb://localhost/lingkaran...","timestamp":"2019-07-24T08:03:31.053Z"}
+=======
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-07-22T13:12:56.132Z"}
+{"level":"info","message":"Connected to mongodb://localhost/lingkaran...","timestamp":"2019-07-22T13:12:56.167Z"}
+{"level":"info","message":"Listening on port 3001...","timestamp":"2019-07-22T13:20:26.291Z"}
+{"level":"info","message":"Connected to mongodb://localhost/lingkaran...","timestamp":"2019-07-22T13:20:26.325Z"}
+{"level":"info","message":"Listening on port 3001...","timestamp":"2019-07-22T13:20:39.142Z"}
+{"level":"info","message":"Connected to mongodb://localhost/lingkaran...","timestamp":"2019-07-22T13:20:39.176Z"}
+{"level":"info","message":"Listening on port 3001...","timestamp":"2019-07-24T09:36:20.256Z"}
+{"level":"info","message":"Connected to mongodb://localhost/lingkaran...","timestamp":"2019-07-24T09:36:20.279Z"}
+>>>>>>> be067c95c64b8fa0ae5d03099202e5e8e9772e97
